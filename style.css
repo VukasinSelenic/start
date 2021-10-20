@@ -269,7 +269,7 @@ header .btn-outline-primary:hover {
 #pricing .col-lg-3:hover, #pricing .col-sm-12:hover {
     transform: scale(1.1);
 }
-#pricing .col-sm-12 {
+#pricing .col-sm-12 h6 {
     margin-top: 20px;
 }
 #contact {
