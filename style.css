@@ -128,7 +128,7 @@ header .btn-outline-primary:hover {
     transform: scale(0.7);
 }
 #services {
-    margin-top: 60px;
+    padding-top: 100px;
 }
 #services h2 {
     margin-bottom: 50px;
@@ -162,7 +162,7 @@ header .btn-outline-primary:hover {
     font-weight: 700;
 }
 #features {
-    margin-top: 60px;
+    padding-top: 100px;
 }
 #features2 ul {
     list-style: none;
@@ -209,7 +209,7 @@ header .btn-outline-primary:hover {
 }
 
 #pricing {
-    margin-top: 60px;
+    padding-top: 100px;
 }
 #pricing h2 {
     margin-bottom: 50px;
@@ -273,7 +273,7 @@ header .btn-outline-primary:hover {
     margin-top: 20px;
 }
 #contact {
-    margin-top: 160px;
+    padding-top: 160px;
 }
 #contact h2 {
     margin-bottom: 50px;
